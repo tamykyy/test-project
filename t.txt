@@ -1,2 +1,3 @@
-123456
+1234 *fixed*
 *new function*
+*second function*
